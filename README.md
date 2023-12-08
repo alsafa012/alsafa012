@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=solarized-dark)](https://git.io/streak-stats)
 <!--
 **alsafa012/alsafa012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
