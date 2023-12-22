@@ -20,32 +20,49 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋,I am Al-Safa Ridoy</h1>
 <h1 align="center" style="color: skyblue; font-weight: 800;font-style: italic">**A Frontend Developer**</h1>
+
 <!-- readme-streak-stats -->
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=flag-india" alt="GitHub Streak" /></a>
 </p>
 
-# Technologies that I know:
-
-<!-- which technology I know -->
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,mongo,express" />
-  </a>
 <!--  -->
 
-<!--  -->
-
-## Current overview:
+## About Myself:
 
 -    🔭 I’m currently working on Frontend Development
 -    🌱 I’m currently learning Backend Development
 -    👯 I’m looking to collaborate on Frontend Development Projects
 -    ⚡ Fun fact: I love coding and exploring new features.
-     <!-- - 🤔 I’m looking for  -->
-     <!-- - 💬 Ask me about ...
--    📫 How to reach me: ...
--    😄 Pronouns: ... -->
+
+![](https://komarev.com/ghpvc/?username=alsafa012)
+
+## Technologies that I know:
+
+<!-- which technology I know -->
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,css,html,express,mongodb,nodejs" />
+  </a>
+<!--  -->
+
+## 🧾 My Projects:
+
+1. **ContestHub (Context Platform):** [Live Link](https://contest-hub-5feeb.web.app)
+2. **My Kitchen (A Restaurant Project):** [Live Link](https://restaurant-project-d2dc8.web.app)
+3. **TechBD (A Brand wise shop):** [Live Link](https://techbd-shop.web.app)
+
+### ☕ Connect with me:
+
+---
+
+<p align="center">
+<!-- <a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-rahman-sakib-9722612a4" height="30" width="40" /></a> -->
+<a href="https://fb.com/alsafa012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsafa012" height="30" width="40" /></a>
+</p>
+
+## My Github Status
+***
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsafa012&theme=moltack)
 
