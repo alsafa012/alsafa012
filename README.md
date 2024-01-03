@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- banner image -->
-<img src='./picture/Cream Minimalist Virtual Assistant Facebook Cover Photo (3).png'>
+<img src='./picture/banner.png'>
 
 <h1 align="center">Hi 👋,I am Al-Safa Ridoy</h1>
 <h1 align="center" style="color: skyblue; font-weight: 800;font-style: italic">**A Frontend Developer**</h1>
