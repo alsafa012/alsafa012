@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 
 ## 🧾 My Projects:
 
-1. **ContestHub (Context Platform):** [Live Link](https://contest-hub-5feeb.web.app)
-2. **My Kitchen (A Restaurant Project):** [Live Link](https://restaurant-project-d2dc8.web.app)
-3. **TechBD (A Brand wise shop):** [Live Link](https://techbd-shop.web.app)
+1. **DeshiDeals (Online Shop Management):** [Live Link](https://contest-hub-5feeb.web.app)
+2. **ContestHub (Context Platform):** [Live Link](https://online-shop-project-ten.vercel.app)
+3. **My Kitchen (A Restaurant Project):** [Live Link](https://restaurant-project-client.vercel.app)
+4. **TechBD (A Brand wise shop):** [Live Link](https://techbd-shop.web.app)
 
 ### ☕ Connect with me:
 
@@ -59,6 +60,9 @@ Here are some ideas to get you started:
 <p align="center">
 <!-- <a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-rahman-sakib-9722612a4" height="30" width="40" /></a> -->
 <a href="https://fb.com/alsafa012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsafa012" height="30" width="40" /></a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/alsafa012" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="alsafa012" height="30" width="40" /></a>
 </p>
 
 ## My Github Status
