@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ## About Myself:
 
--    🔭 I’m currently working on Frontend Development
--    🌱 I’m currently learning Backend Development
--    👯 I’m looking to collaborate on Frontend Development Projects
--    ⚡ Fun fact: I love coding and exploring new features.
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on Frontend Development Projects
+- ⚡ Fun fact: I love coding and exploring new features.
 
 ![](https://komarev.com/ghpvc/?username=alsafa012)
 
@@ -58,26 +58,15 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-<!-- <a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-rahman-sakib-9722612a4" height="30" width="40" /></a> -->
-<a href="https://fb.com/alsafa012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsafa012" height="30" width="40" /></a>
-</p>
-<p align="center">
+<a href="https://fb.com/rjridoy012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsafa012" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alsafa012" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="alsafa012" height="30" width="40" /></a>
 </p>
 
 ## My Github Status
-***
+
+---
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsafa012&theme=moltack)
-
-<!--
- ![GitHub Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alsafa012&theme=moltack)
-
-![GitHub Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alsafa012&theme=moltack)
-
-![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alsafa012&theme=moltack)
-
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alsafa012&theme=moltack&utcOffset=8) -->
 
 | GitHub Repositories per Language                                                                                                                   | GitHub Most Committed Language                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,20 +76,12 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alsafa012&theme=moltack) | ![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alsafa012&theme=moltack&utcOffset=8) |
 
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=alsafa012&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block; width: 100%;" />
-  </a>
-
 <!-- GitHub Stats and Most Used Languages with Same Width -->
-<!-- <div align="center" style="display: flex; gap: 10px; margin:20px 0 ">
+<div align="center" style="display: flex; gap: 10px; margin:20px 0 ">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=alsafa012&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block; width: 400px;" />
   </a>
   <a href="https://github.com/alsafa012">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsafa012&layout=compact" alt="Most Used Languages" style="display: inline-block; width: 400px;" />
   </a>
-</div> -->
-
-  <!-- <a href="https://github.com/alsafa012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsafa012&layout=compact" alt="Most Used Languages" style="display: inline-block; width: 100%;" />
-  </a> -->
+</div>
