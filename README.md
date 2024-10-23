@@ -1,34 +1,23 @@
-<!-- # Hi 👋,I'm Al-Safa -->
-<!-- <h1 align="center">Hi 👋, Ridoy</h1> -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=solarized-dark)](https://git.io/streak-stats) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=flag-india)](https://git.io/streak-stats) -->
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- banner image -->
 <img src='./picture/banner.png'>
 
-<h1 align="center">Hi 👋,I am Al-Safa Ridoy</h1>
-<h1 align="center" style="color: skyblue; font-weight: 800;font-style: italic">**A Frontend Developer**</h1>
+## Assalamu Alaikum, I'm Md. Al Safa Ridoy
 
-<!-- readme-streak-stats -->
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=flag-india" alt="GitHub Streak" /></a>
-</p>
+**Front End Developer**
 
-<!--  -->
+I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
 
-## About Myself:
+---
+
+### Skills
+
+- **Programming Languages:** C, C++, JavaScript
+- **Web Technologies:** HTML, CSS, React, Bootstrap, Tailwind
+- **Additional Skills:** Git, GitHub, VS code, Firebase
+
+---
+
+### About Myself:
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Backend Development
@@ -36,6 +25,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love coding and exploring new features.
 
 ![](https://komarev.com/ghpvc/?username=alsafa012)
+
+---
+
+### ☕ Connect with me:
+
+<p align="center">
+  <a href="https://github.com/alsafa012" class="contact-badge"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
+  <a href="mailto:alsafa012@gmail.com" class="contact-badge"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/alsafa012/" class="contact-badge"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://www.facebook.com/rjridoy012" class="contact-badge"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
+</p>
+
+---
+
+<!-- readme-streak-stats -->
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alsafa012&theme=flag-india" alt="GitHub Streak" /></a>
+</p>
+
+<!--  -->
 
 ## Technologies that I know:
 
@@ -53,14 +62,7 @@ Here are some ideas to get you started:
 3. **My Kitchen (A Restaurant Project):** [Live Link](https://restaurant-project-client.vercel.app)
 4. **TechBD (A Brand wise shop):** [Live Link](https://techbd-shop.web.app)
 
-### ☕ Connect with me:
-
 ---
-
-<p align="center">
-<a href="https://fb.com/rjridoy012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alsafa012" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alsafa012" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="alsafa012" height="30" width="40" /></a>
-</p>
 
 ## My Github Status
 
